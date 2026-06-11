@@ -19,7 +19,7 @@ The file [Resultats_finals.png](Resultats_finals.png) shows the chart generated 
 <details>
 <summary><b> Clica aquí per llegir la versió en Català</b></summary>
 
-# 👑 COMPARADOR DE RENDIMENTS EN ESCACS
+# COMPARADOR DE RENDIMENTS EN ESCACS
 
 En aquest projecte, comparem els resultats d'un usuari de Chess.com quan juga les obertures Ruy López, Gambit de Dama o Anglesa, amb els resultats de 3 dels millors jugadors de la història, **Mikhail Tal**, **Anatoly Karpov** i **Garry Kasparov** utilitzant aquestes mateixes obertures. 
 
